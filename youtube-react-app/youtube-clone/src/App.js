@@ -52,7 +52,7 @@ export default () => {
       params: {
         part: 'snippet',
         maxResults: '5',
-        key: 'AIzaSyAB0eRqsGUuTZuZsRG7FH6WynYNtoVdyVU',
+        key: 'remvoved key - using env to hide key',
         q: searchTerm
       }
     
